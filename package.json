@@ -1,0 +1,7 @@
+{
+  "name": "raw-loop",
+  "version": "0.1.0",
+  "description": "An unoptimized version of main-loop",
+  "repository": "srcagency/raw-loop",
+  "license": "MIT"
+}
